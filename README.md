@@ -30,7 +30,7 @@ After you are done installing the dependencies run `npm run dev` or `yarn dev`.
 
 #### Deploy
 
-- [x] Netlify
+- [x] Vercel
 <!--
 
 # Screenshots
