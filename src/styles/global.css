@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Roboto Mono", monospace;
+  background: #0c0c0c;
+  color: #ffffff;
+}
+
+*::selection {
+  color: #0c0c0c;
+  background: #ffffff;
+}
